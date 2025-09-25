@@ -1,0 +1,140 @@
+PILAR 1 – CODING (TEORI SEBELUM NGODING)
+
+
+---
+
+🔹 Level 0 – Konsep Dasar Komputer ✅
+Apa itu komputer: input → proses → output
+
+Komponen utama: CPU, RAM, storage, I/O
+
+Hardware vs software
+
+Sistem operasi (Windows, Linux, macOS)
+
+File, folder, aplikasi
+
+Booting & BIOS (pengantar)
+ ➕ Tambahan:
+
+CPU cycle: fetch → decode → execute
+
+Memory hierarchy: register → cache → RAM → disk
+
+Perbedaan storage volatile vs non-volatile  ✅
+ 
+
+🔹 Level 1 – Representasi Data & Bilangan✅ 
+Sistem bilangan biner
+
+Konversi desimal ↔ biner
+
+Karakter: ASCII, Unicode
+
+Semua data = angka (gambar, suara, teks)
+
+Byte, KB, MB, GB
+ ➕ Tambahan:
+
+Logika biner (AND, OR, NOT) & gerbang logika sederhana
+
+Representasi bilangan negatif (two’s complement)
+
+Representasi floating point (IEEE 754 dasar)
+✅ 
+
+🔹 Level 2 – Sistem Operasi & File✅ 
+Fungsi sistem operasi
+
+Kernel & user interface (GUI vs CLI)
+
+Struktur direktori, file system
+
+Tipe file (teks, gambar, dsb)
+
+Permission & akses file (khusus Linux)
+ ➕ Tambahan:
+
+Manajemen proses & multitasking
+
+Konsep memori virtual & paging✅ 
+
+
+🔹 Level 3 – Cara Kerja Internet✅ 
+Apa itu internet, jaringan, server
+
+IP address & DNS
+
+HTTP vs HTTPS
+
+Client vs server
+
+Alur request → response
+ ➕ Tambahan:
+
+TCP/IP dan paket data
+
+Port & protokol umum (FTP, SMTP, SSH)
+
+Konsep firewall & keamanan dasar jaringan✅ 
+
+
+🔹 Level 4 – Dasar Pemrograman✅ 
+Apa itu bahasa pemrograman
+
+Bahasa manusia vs mesin
+
+Compiler vs interpreter
+
+Source code → executable
+
+IDE, text editor, terminal
+
+Bahasa populer (JS, Python, C)
+ ➕ Tambahan:
+
+Paradigma pemrograman: prosedural, OOP, fungsional
+
+Error & debugging (basic mindset)
+
+
+🔹 Level 5 & 7 – Logika Komputasional✅ 
+Pengertian algoritma
+
+Contoh algoritma (buat kopi, dll)
+
+Flowchart
+
+Pseudocode
+
+IF-ELSE, AND-OR-NOT
+
+Looping (for, while)
+
+Struktur data dasar: variabel, array, objek (konsep saja)
+ ➕ Tambahan:
+
+Big-O Notation (kompleksitas algoritma, dasar saja)
+
+Struktur data fundamental: stack, queue, linked list (konsep, tanpa coding)
+
+
+🔹 Level 6 – Struktur Web & Software✅ 
+Apa itu website
+
+Front-end vs back-end
+
+HTML, CSS, JS = apa fungsinya
+
+Apa itu database
+
+Alur kerja developer
+
+Version control (Git, GitHub)
+ ➕ Tambahan:
+
+API & JSON (konsep dasar)
+
+Software Development Lifecycle (SDLC)
+
+Testing dasar (unit test, bug fixing)✅ 
